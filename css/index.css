@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(36, 53, 63);
+}
+h1,
+h2 {
+  color: #17a2b8;
+}
+input,
+textarea {
+  background-color: transparent !important;
+  color: #fff !important;
+}
